@@ -1,0 +1,1181 @@
+REVIEWS
+SAMSUNG GALAXY S23
+As per tradition, Samsung unveiled the Galaxy S23 series at its annual
+Unpacked event in February. The series comprises three models – the
+Galaxy S23, the larger Galaxy S23 Plus, and the Galaxy S23 Ultra, which
+resembles the Galaxy Note series. At first glance, it appears that Samsung
+has opted for an iterative approach as the three devices share similarities
+with their predecessors. The company seems to be following the adage, “If
+it ain’t broke, don’t fix it,” as there are few significant changes from the
+previous models.
+Samsung has launched the Galaxy S23 series, which is the next
+generation of its flagship Android smartphone lineup. Those who want a
+top-of-the-line device will want to check out the Galaxy S23 Ultra, with its
+incredible 200MP camera and 10X optical zoom. But for everyone else,
+there are the Galaxy S23 and Galaxy S23 Plus, They’re practically the
+same, but if you prefer more base storage and a larger screen, opt for the
+S23 Plus instead of the standard S23.
+SAMSUNG GALAXY S23: DETAILED REVIEW
+Compact phone lovers can rejoice with the launch of the new Samsung
+Galaxy S23, packed with a new SoC, a larger battery, and a revamped
+design. Being the smallest among the three Galaxy devices that launched
+recently, the Samsung Galaxy S23 can sometimes go under a few phone
+buffs’ radar, especially if they’re not invested in compact phones. However,
+Samsung has refined this phone quite a bit – and there are some notable
+changes in comparison to its predecessor, the Samsung Galaxy S22.
+Starting at ₹74,999, the Galaxy S23 is still not easy on anyone’s wallet, but
+the promise of speedier performance courtesy of the new chipset, better
+camera performance, and longer battery life does make it seem enticing
+enough on paper. Is the Samsung Galaxy S23 worth its hefty price tag
+though? Or does it lose ground to the Pixel 7 (review) and the iPhone 14
+(review)? Let’s find out in our detailed review.
+Seen in a vacuum, the Samsung Galaxy S23 is an excellent, near-perfectly
+proportioned Android handset that meets or exceeds expectations.
+The mobile phone market, though, is not a vacuum, and the Galaxy S23 is
+inevitably judged against all the best smartphones, including its stellar
+sibling, the big and bold Samsung Galaxy S23 Ultra, and its nearest Apple
+competitor, the iPhone 14 Pro.
+In that light, Samsung's latest flagship acquits itself nicely, with an excellent
+camera array, the most powerful Qualcomm SoC yet, a gorgeous screen,
+and a multitude of other capabilities. But it does not outshine the S23 Ultra
+or the iPhone 14 Pro. In some instances, I found the S23 equal to anything
+Apple threw at it. In others, I wondered why the Galaxy S23 was – leaving
+aside the refined design – so similar to the Galaxy S22 and lacking
+compared to the beast-like Galaxy S23 Ultra.
+At the very least, Samsung could've equipped the Galaxy S23 with last
+year's S22 Ultra 108MP main camera sensor. Instead, it chose to leave the
+cameras (save the selfie cam) untouched. Don't get me wrong, the S23
+takes lovely photos but Samsung could've left the battery life untouched
+(200mAh more is not that exciting), added a 10MP periscope zoom, and
+radically improved the handset's Space Zoom capabilities too.
+Naturally, it's hard to recommend that someone who owns the still-stellar
+Samsung Galaxy S22 upgrade to the S23, because it's not much of an
+upgrade. That said, newcomers to Samsung or the Android space (as well
+as users of much older Galaxy S models) will be hard-pressed to find a
+better mix of design, size, power, utility, communication, battery life, and
+photographic performance.
+6.1 inches turns out to be a lovely mid-spot for most hands and makes you
+wonder why the 6.7-inch S23 Plus – which offers only a bigger battery and
+larger heat-damping vapor chamber – exists. For comparison's sake,
+though, I suggest you read our complete Samsung Galaxy S23 Plus review
+and Alex Todd-Walker's extensive Samsung Galaxy S23 Ultra review.
+Whichever S23 handset you choose, you'll get the same performance,
+powered by the new Qualcomm 'Snapdragon 8 Gen 2 Mobile Platform for
+Galaxy'. GeekBench 5 tests put the mobile SoC within shooting distance of
+Apple's industry-leading A16 Bionic but the reality is that numbers do not
+tell the full story. There's scarcely a place where the Galaxy S23 can't hold
+its own against an iPhone 14 Pro.
+The phone's cameras can shoot up to 3x optical zoom and
+image-processor-enhanced 30x Space Zoom. It can also shoot 8K video,
+which you can do light editing on in the phone's camera app. It's an able
+gaming system, content consumption, and productivity handset, with solid
+5G support thanks to – in my case – the T-Mobile network.
+If you liked the camera array on the S22, you'd be similarly pleased with the
+Galaxy S23. It's just as good as the former but with the added benefit of
+better image processing and new Camera app tricks for night and
+astrophotography.
+At least the front-facing camera got a nice 2MP bump to 12MP and takes
+some impressive standard and portrait selfie photos.
+The flat 6.1-inch Dynamic AMOLED 2X Infinity-O FHD+ display (which has
+a perfectly round hole-punch at the top, center for the selfie camera) is,
+mostly, a replica of the S22's but with improved variable refresh rates of
+between 48Hz and 120Hz, and a new Gorilla Glass Victus 2 covering on
+the front (the brushed glass on the back is made of the same material).
+Aside from the redesigned back that loses the awkward, raised contour
+around the cameras, the dimensions are virtually unchanged from the
+Galaxy S22. It still feels solid and comfortable to hold. I like the brushed
+glass back because it makes the handset feel a little less slip-prone. As
+before, the phone is IP68 rated for dust protection and drops in up to 1.5
+meters of fresh water for up to 30 minutes.
+This is unquestionably one of the best smartphones of 2023, but it still
+might not offer enough reasons to upgrade from your also-excellent Galaxy
+S22.
+Samsung Galaxy S23: Design and display
+A side-by-side comparison of the Galaxy S23 and the Galaxy S22 reveals
+only one significant change: the rear camera housing on the newer model
+has disappeared. Instead, you get three standalone camera rings on the
+back panel of the Galaxy S23, which gives it a minimalistic look. The
+Galaxy S23 looks cleaner and more refined for sure, but one might argue
+that the metal camera bump on the Galaxy S22 added some character to
+its design.
+That said, everything else about the Galaxy S23’s design simply works. Its
+compact form factor makes it ideal for one-handed use. In a sea of
+large-screened phones, the Galaxy S23 and the iPhone 14 are perhaps the
+only choices for anyone looking for a smaller phone. The matte finish on
+the rear glass is soft to the touch and ensures you don’t leave any
+fingerprints or smudges on it. This made the Lavender color look
+particularly fresh and attractive throughout the review period. It’s easily my
+favorite color option, though the Green one looks good in pictures too.
+Structurally, the Galaxy S23 has a solid build quality. Structurally, the
+Galaxy S23 has a solid build quality. The smartphone is still lightweight,
+weighing merely 1 g more than its predecessor, while still being lighter than
+the iPhone 14. It is also thinner than Apple’s iPhone 14. This, combined
+with the rounded-off edges, gives the phone a very pleasant and ergonomic
+in-hand feel. The metal frame is thick enough to offer a good grip. Due to
+the phone’s compact design, the power and volume buttons are easy to
+reach with your thumb. The device is IP68 rated for dust and water
+resistance. The flat 6.1-inch display on the Galaxy S23 is small but not
+iPhone SE-level small. It is smaller than what you get on most Android
+phones today and about the same size as the one on the iPhone 14.
+Screen size aside, every other aspect of the display is nearly identical to
+what you’ll find on the Galaxy S23 Plus. It is an OLED panel with a
+2340×1080 FHD+ resolution, HDR support, and up to 120Hz adaptive
+refresh rate. Samsung is in its comfort zone when it comes to OLED
+displays, so be rest assured that the Galaxy S23 will deliver vibrant colors
+and deep blacks here.
+Peak brightness has been bumped up to 1750 nits from 1300 nits. Even at
+less than max brightness, you will be able to see the screen outdoors under
+direct sunlight.
+Despite that, the Samsung Galaxy S23’s display is fantastic with rich,
+vibrant colors, deep blacks, and really good viewing angles. With a PPI
+count of 425, everything looks super crisp and detailed as well, so viewing
+content on this screen will still be a treat. The display also has a 120 Hz
+Adaptive Refresh Rate and refreshes in steps starting from 10 Hz, 24 Hz,
+30 Hz… to 120 Hz according to the content on the screen. However, we
+didn’t witness it going below 24 Hz even on the Always-On display.
+Samsung Galaxy S23: Performance and software
+Samsung took fans by surprise when they announced that their Galaxy S23
+series of phones would be powered by a customized version of the SD8G2
+dubbed the Qualcomm Snapdragon 8 Gen 2 for Galaxy. This is essentially
+a Snapdragon 8 Gen 2 chipset that has an overclocked CPU and GPU.
+This chipset promises 35 percent improved performance and 40 percent
+improved efficiency for the CPU, 25 percent performance improvement and
+45 percent efficiency improved on the GPU front, and support for faster
+memory compared to the SD 8 Gen 1 SoC. This combination is enough to
+effortlessly run through most of the apps available on the Play Store.
+Internal storage is capped at 256GB on the vanilla S23, while you can get
+up to 512GB on the S23 Plus and 1TB on the S23 Ultra.
+You are greeted with Android 13-based OneUI 5.1 out of the box.
+Samsung’s UI is instantly familiar to anyone who has used a Samsung
+phone before. It is a rather easy UI to navigate through and you get a few
+pre-loaded apps from Samsung, Microsoft, and Google to help you get
+started.
+The core configuration has been reworked with this Samsung-exclusive
+version flaunting 1x3.36 GHz Cortex-X3 core, 2x2.8 GHz Cortex-A715
+cores, 2x2.8 GHz Cortex A710 cores, and 3x2.0 GHz Cortex-A510 cores.
+In this case, the prime Cortex-X3 core is the overclocked one. One area of
+disappointment is the memory, while this chipset is capable of supporting
+newer and faster memory technologies such as LPDDR5X RAM and UFS
+4.0 storage, the 128 GB entry-level variant comes with 8 GB LPDDR5 RAM
+and 128 GB UFS 3.1 storage. So those who opt for the base variant will
+lose out on faster memory speeds. Fortunately, the 256 GB variant is
+available at the same price point as the 128 GB S23 during the pre-order
+phase, so those who are buying early can avail of the benefit and get the
+variant with faster memory speeds.
+Consider Geekbench, which rates the A16 Bionic in the iPhone 14 Pro
+models as the fastest chip. The Snapdragon 8 Gen 2 for Galaxy doesn't
+change that, but it does get the Galaxy S23 much closer to the iPhone's
+Geekbench score than we've seen previously.
+Phone CPU Geekbench 5.5
+single-core
+Geekbench 5.5
+multicore
+Samsung
+Galaxy S23
+Snapdragon 8
+Gen 2 for Galaxy 1,582 4,876
+iPhone 14 A15 Bionic 1,727 4,553
+iPhone 14 Pro A16 Bionic 1,891 5,469
+Google Pixel 7 Tensor G2 1,054 3,021
+OnePlus 11 Snapdragon 8
+Gen 2 1,166 4,962
+With a multicore score of 4,876, the Galaxy S23 isn't anywhere as fast as
+the iPhone 14 Pro (5,469) or iPhone 14 Pro Max (5,333). But it does come
+a lot closer to those scores than the 3,348 multicore results posted by last
+year's Galaxy S22. More significantly, the Galaxy S23 topped the A15
+Bionic-powered iPhone 14's multicore score of 4,553, even if Apple's
+entry-level flagship still has a better single-core result.
+Phone CPU Wild Life
+Unlimited (FPS)
+Wild Life Extreme
+Unlimited (FPS)
+Samsung
+Galaxy S23
+Snapdragon 8
+Gen 2 for Galaxy 87.3 22.9
+iPhone 14 A15 Bionic 69.1 15.5
+iPhone 14 Pro A16 Bionic 74 19
+Google Pixel 7 Tensor G2 40.3 10.5
+OnePlus 11 Snapdragon 8
+Gen 2 84 22
+With a multicore score of 4,876, the Galaxy S23 isn't anywhere as fast as
+the iPhone 14 Pro (5,469) or iPhone 14 Pro Max (5,333). But it does come
+a lot closer to those scores than the 3,348 multicore results posted by last
+year's Galaxy S22. More significantly, the Galaxy S23 topped the A15
+Bionic-powered iPhone 14's multicore score of 4,553, even if Apple's
+entry-level flagship still has a better single-core result.
+Phone CPU Wild Life
+Unlimited (FPS)
+Wild Life Extreme
+Unlimited (FPS)
+Samsung
+Galaxy S23
+Snapdragon 8
+Gen 2 for Galaxy 87.3 22.9
+iPhone 14 A15 Bionic 69.1 15.5
+iPhone 14 Pro A16 Bionic 74 19
+Google Pixel 7 Tensor G2 40.3 10.5
+OnePlus 11 Snapdragon 8
+Gen 2 84 22
+We also test phones by having them transcode a 4K video using Adobe
+Premiere Rush and timing the results. The iPhone has traditionally
+dominated this test, and that continues here. But the Galaxy S23 has
+posted the best time of any Android phone we've tested, taking 39 seconds
+to transcode the video. That's not as good as the iPhone 14's 28-second
+time, but it is a second better than the Galaxy S23 Ultra.
+If you value performance but despair at the gap between Android devices
+and the iPhone, the Galaxy S23 is the phone you've been waiting for.
+For now, Samsung does not stand on equal footing with Apple when it
+comes to Satellite connectivity. The latter launched Emergency SOS via
+Satellite with the iPhone 14 line and Qualcomm showed how a Snapdragon
+8 Gen 2-equipped demo device could send and receive texts over satellite
+at CES 2023. Both the S23 and S23 Plus pair the Snapdragon 8 Gen 2
+with the X70 5G modem, the same one Qualcomm told me is capable of
+satellite communications but the capability is not enabled and there is no
+timeline for turning it on.
+For now, Samsung does not stand on equal footing with Apple when it
+comes to Satellite connectivity. The latter launched Emergency SOS via
+Satellite with the iPhone 14 line and Qualcomm showed how a Snapdragon
+8 Gen 2-equipped demo device could send and receive texts over satellite
+at CES 2023. Both the S23 and S23 Plus pair the Snapdragon 8 Gen 2
+with the X70 5G modem, the same one Qualcomm told me is capable of
+satellite communications but the capability is not enabled and there is no
+timeline for turning it on.
+SAMSUNG GALAXY S23: CAMERA
+The Samsung Galaxy S23 features an identical rear camera setup as the
+Galaxy S22 but you do get a new selfie camera with a higher-resolution
+lens. The phone comes equipped with a 50 MP Samsung S5KGN3 primary
+camera with OIS and dual-pixel PDAF, a 10 MP telephoto camera with 3x
+optical zoom and OIS and PDAF support, and finally, a 12 MP Sony
+IMX564 ultrawide shooter. The new selfie camera is a 12 MP Samsung
+S5K3LU sensor with dual-pixel PDAF as well.
+The 50 MP main lens captures quad-binned photos at 12 MP (instead of
+12.5 MP for some reason) but you can also click full 50 MP resolution
+shots. Samsung has also retained Expert RAW mode from last year, which
+is now built into the main camera app and unlocks full manual control and
+RAW image data.
+Now, moving on to photo quality, the main camera provides excellent shots
+in daylight with good detail, sharpness, and vivid colours. The dynamic
+range is also top-notch in daylight, with the phone exposing highlights and
+shadows in a pleasing and natural manner. In tricky lighting conditions, you
+can see some noise creep in the shadows when you pixel peep, but it's not
+too jarring. There’s good natural background blur as well owing to the large
+50 MP sensor. Full 50 MP shooting mode is available, as mentioned
+before, which provides higher levels of detail and accurate colours,
+however, the shots are slightly noisier than the standard binned images.
+Here are some shots, do note that these are compressed for the web.
+The 50 MP main lens captures quad-binned photos at 12 MP (instead of
+12.5 MP for some reason) but you can also click full 50 MP resolution
+shots. Samsung has also retained Expert RAW mode from last year, which
+is now built into the main camera app and unlocks full manual control and
+RAW image data.
+Now, moving on to photo quality, the main camera provides excellent shots
+in daylight with good detail, sharpness, and vivid colours. The dynamic
+range is also top-notch in daylight, with the phone exposing highlights and
+shadows in a pleasing and natural manner. In tricky lighting conditions, you
+can see some noise creep in the shadows when you pixel peep, but it's not
+too jarring. There’s good natural background blur as well owing to the large
+50 MP sensor. Full 50 MP shooting mode is available, as mentioned
+before, which provides higher levels of detail and accurate colours,
+however, the shots are slightly noisier than the standard binned images.
+Here are some shots, do note that these are compressed for the web.
+Portrait shots from the main camera are excellent with great subject
+separation and detail – however, the default blur levels are a bit too
+extreme, and the Pixel 7 and iPhone 14 have much more natural levels of
+blur. But you can always edit the blur level of a photo clicked in the Gallery
+after the fact. The 3x portraits are also surprisingly good with impressive
+background-foreground separation and good colour.
+The selfie camera, with its new HDR abilities, offers great dynamic range.
+The detail is good enough and there’s not too much oversharpening either.
+Colours are natural and noise is minimal as well, the same goes for
+low-light photography. All cameras come with Auto Night Mode, so most of
+the shots taken have excellent detail with plentiful light, but remember to
+keep your hand steady to avoid blur.
+Low-light shots on the main camera offer great levels of detail, nice
+exposure and good colours. The dynamic range is decent as well. Even in
+extreme low-light situations, the phone manages to somewhat light the
+subject up convincingly. There are some instances when Night Mode does
+blow out the highlights. Shots with Night Mode off are far noisier though but
+they tend to keep the highlights in check. However, that's us nitpicking, and
+for the most part, the Samsung S23 will provide you with consistently good
+photos.
+As for video, the S23 can record 8K at 30 fps on the primary camera, up
+from 8K at 24 fps on the Samsung Galaxy S22. You also get 4K at 60 fps
+across all four cameras, which is great. Video from the primary and
+telephoto lens has great stability due to OIS but you can also enable
+electronic stabilisation across all cameras to get stable video across the
+board. There’s also Super Steady mode at 1440p resolution, an
+improvement over last year’s 1080p limitation.
+8K video on the S23 is surprisingly good in daylight, with good colours and
+dynamic range. The detail is decent as well, slightly like upscaled 4K
+content. 4K video clips look outstanding, a real improvement from last year,
+with great detail, accurate colours, and likeable dynamic range. Low light
+footage from the main camera is decent, however, you will find noise
+creeping in. However, low light from the telephoto is quite noisy and not
+very usable. The ultrawide camera though still pulls up usable detailed
+low-light video clips with good exposure and minimal noise.
+SAMSUNG GALAXY S23 REVIEW: BATTERY LIFE
+Powered by a larger 3,900 mAh battery, the Samsung Galaxy S23 provides
+excellent battery life for its diminutive size. The chipset also provides
+improved efficiency which is one of the reasons the battery life has
+improved drastically. We got over 17 hours of runtime in our 4K video loop
+test, which is an excellent performance. The performance is definitely
+vastly improved compared to the Galaxy S22 which ran for merely 10 hours
+in our 4K video loop test.
+One of my biggest gripes about the Galaxy S22 was battery life, and I'm
+happy to report that the mere 200mAh bump in battery capacity has made
+a world of difference. I can actually get through an entire workday without
+needing to charge the phone, which is impressive since I usually start my
+day at 5 am. In my week of use, I typically average about a full day and am
+only regulated to charge the phone before going to bed around 10 pm.
+In my charge tests, I charged more than 50% in 30 minutes using a 25W
+charger, which is basically in line with our lab tests, where we found we
+could charge to 55% in 30 minutes.
+With the slight battery increase and more efficient chipset, Samsung and
+Qualcomm worked wonders with the Galaxy S23, giving it the power and
+longevity one might not expect from a small phone. And thanks to their
+partnership, the phone ships globally with the Snapdragon 8 Gen 2 for
+Galaxy, so everyone gets to experience the best that Snapdragon has to
+offer on the Galaxy S23.
+We also ran other battery tests, where 30 minutes of streaming Netflix
+dropped the battery by 3 percent (from 85 to 82), 15 minutes of Call of
+Duty: Mobile dropped the battery by 3 percent (from 62 to 59) and 1 hour of
+GPS navigation took 5 percent off the board (from 18 to 13).
+As for charging, while the S23+ and S23 Ultra support 45 W wired
+charging, the Galaxy S23 is limited to 25 W charging. The phone tops up
+from zero to full in about 65 minutes but this still feels laboriously slow on a
+pricey phone in 2023. However, the 45 W charging brick from last year was
+merely a few minutes quicker to charge to full than the 25 W one, so keep
+that in mind as well. Nevertheless, Samsung really needs to up its charging
+game, to compete with brands such as Xiaomi, iQOO, OPPO, and others.
+SAMSUNG GALAXY S23 REVIEW: VERDICT
+As the current smartphone landscape goes, we can say without a doubt,
+the Samsung Galaxy S23 is the best compact Android phone we’ve ever
+tested. Despite its compact form factor, the phone manages to win you over
+with not just its premium build and design but also its speedy performance,
+refined UI, fantastic battery life, and superb camera. It is a well-rounded
+phone in every sense of the word that offers flagship-grade performance
+without the premium of spending over a lakh. While iPhone users may still
+prefer the iPhone 14, this phone will give compact iPhone users tethering
+the edge a real reason to make the switch, especially due to the higher
+refresh rate screen and the presence of optical zoom. However, we’d urge
+everyone to go for the 256 GB variant of the phone over the base variant to
+leverage faster memory speeds across the board. That aside, Samsung
+has made a truly commendable compact flagship that excels in almost
+every aspect of a smartphone.
+You should buy this if...
+● You prefer smaller phones
+● You want a phone that will get you through the day
+● You prefer vibrant, colorful photos
+You shouldn't buy this if...
+● You already have the Galaxy S22
+● You want super-fast wired charging
+● You're looking for an inexpensive phone
+There's no such thing as a perfect phone, but every year, Samsung gets
+even close to hitting the mark with its baby flagship. Last year, the company
+had some hurdles to overcome, but the company proved that it was
+listening to user feedback and gave us the improvements we were hoping
+for.
+The Galaxy S23 crams a lot of power into a small body, and it manages
+that power quite well. Performance is stellar and battery life is much
+improved. There's a lot to like about the Galaxy S23, so much so that I'm
+disappointed we didn't get the same level of improvements with the Galaxy
+S22.
+I'm not a huge fan of the cameras, but they're still good and definitely not a
+deal-breaker in my eyes. And there's definitely plenty more I would like to
+see in future models, like faster charging and a bolder design, but the
+Galaxy S23 is a step in the right direction and a return to form for
+Samsung's baby flagship.
+If you're rocking the Galaxy S22, it may not be worth upgrading, unless you
+really need that extra battery life. Otherwise, this is a phone I would
+recommend to anyone looking for a pocketable flagship. That is, if you're
+not put off by the price tag.
+Samsung S23 Plus
+It can be easy to forget that the Galaxy S23 Plus even exists,
+overshadowed as it is by the more premium and feature-rich Galaxy S23
+Ultra. And those looking for a cheaper flagship smartphone might gravitate
+toward the cute little Galaxy S23. There’s no reason to ignore this phone,
+though — the S23 Plus shares most of its features with the rest of the S23
+family, including an overclocked Snapdragon 8 Gen 2 chip, a fantastic
+OLED screen, and Samsung’s class-leading update guarantee. Most
+smartphone OEMs don’t have the scale to release three different versions
+of the same phone, but Samsung does. That means you can play
+Goldilocks and skip the phone that’s too big, ignore the one that’s too small,
+and settle in with one that might be just right for you.
+The Samsung Galaxy S23 Plus again treads that tightrope, but its excellent
+small-scale sibling – the Samsung Galaxy S23 – delivers enough in the
+way of impressive style, performance and camera credentials to make this
+year’s Plus edition seem much more appealing than it otherwise might do
+(read our Samsung Galaxy S23 review and Samsung Galaxy S23 Ultra
+review for our full verdicts on the other two phones in the S23 lineup).
+The Samsung Galaxy S23 Plus again treads that tightrope, but its excellent
+small-scale sibling – the Samsung Galaxy S23 – delivers enough in the
+way of impressive style, performance and camera credentials to make this
+year’s Plus edition seem much more appealing than it otherwise might do
+(read our Samsung Galaxy S23 review and Samsung Galaxy S23 Ultra
+review for our full verdicts on the other two phones in the S23
+lineup).Samsung was able to boost the battery capacity versus the Galaxy
+S22 Plus from 4,500mAh to 4,700mAh, while also upping the base storage
+from 128GB to 256GB.
+Most mobile CPUs – including Qualcomm's standard Snapdragon 8 Gen 2
+and the formidable A16 Bionic inside the Pro members of Apple's iPhone
+14 line – are fast enough for the vast majority of users. That said, the extra
+bit of juice that Samsung and Qualcomm have coaxed out of the 8 Gen 2 in
+these devices means slightly better video capture at the highest resolution,
+slightly smoother gaming, and slightly more powerful CPU-intensive
+operations, like 8K video editing. The improvements, however, are more
+negligible than groundbreaking.
+That bespoke processor is also important to bear in mind when you look at
+the S23 Plus’ largely unchanged camera array (versus the Samsung
+Galaxy S22 Plus). The phone rocks a 50MP wide, 12MP ultrawide, and
+10MP optically-stabilized 3x telephoto zoom setup, though the front camera
+is now 12MP, up from 10MP on the Galaxy S22 Plus (which is a change
+consistent across the whole S23 range). Tangible improvements to
+photography instead come from the S23 Plus’ upgraded chipset and more
+powerful AI features.
+Samsung hasn’t messed around with a winning formula when it comes to
+the phone’s 6.6-inch AMOLED display. There's still an ultrasonic fingerprint
+reader underneath it, and a punch hole selfie camera near the top.
+Everything looks suitably bright and colorful, while motion is governed by
+an adaptive refresh rate that, once again, scales between 48Hz and a
+buttery-smooth 120Hz.
+Samsung has likewise kept the phone’s dimensions virtually unchanged
+from the Galaxy S22 Plus, but compared to the S23, this year's Plus is a
+larger phone that feels more substantial. Its larger Gorilla Glass Victus 2
+and Armor Aluminum-clad body leaves room for a bigger 4,700mAh battery
+(200mAh larger than the one in the previous Plus) – as well as a larger
+cooling chamber – though the phone manages to maintain its sibling’s
+exceptionally handsome looks, despite its beefier bodykit.
+In all, then, the Samsung Galaxy S23 Plus is an excellent like-for-like
+alternative to the standard S23, but its significantly higher price makes it a
+hard sell to anyone content with its smaller sibling’s much more compact
+size (which we described as “perfect” in our review).
+What’s more, since there aren’t too many notable upgrades over the
+Galaxy S22 Plus to be found here beyond processing power, battery life
+and more storage options, this is probably a phone best suited to Galaxy
+newcomers – or those who just aren’t able to shell out on the
+eye-wateringly expensive S23 Ultra.
+Samsung Galaxy S23 Plus: Design
+Samsung kept a familiar design for the Galaxy S23 Plus, which, from the
+front, looks indistinguishable from the Galaxy S22 Plus. On the back, things
+appear a little different thanks to the new camera module layout.
+Gone is the contour cut design introduced on the Galaxy S21 with
+individually stacked lenses replacing it. It looks akin to the Galaxy S23
+Ultra, minus the second telephoto camera and laser autofocus. I welcome
+this shift since it adds some cohesion among the Galaxy S23 series.
+Immediately upon picking it up, I thought the Galaxy S23 Plus felt
+extremely well-built. It’s solid with a comfortable heft at 6.9 ounces (196
+grams). I appreciate its sturdiness, which inspires a lot of confidence that it
+would survive an accidental drop.
+For the 6.6-inch Galaxy S23 Plus, this means removing the iconic Contour
+Cut metalwork from around the camera array. Now, all three lenses float
+near the upper-left side of the phone's brushed glass Gorilla Victus 2 back
+(there's also glossy Victus 2 glass covering the display). It's a very clean
+look – in fact, this might well be my favorite-ever design for a Galaxy phone
+– but it also means the S series loses some of its individuality, which may
+grate on diehard Samsung fans.
+Despite removing the bit of Armor Aluminum, the dimensions of the Galaxy
+S23 Plus are almost exactly the same as those of the Galaxy S22 Plus. Its
+76.2 x 157.73 x 7.62mm frame – which weighs 195g – was a touch on the
+large size for my slender hands; the S23 Plus is slightly bigger than the
+iPhone 14 Pro, but a little smaller than the 6.7-inch iPhone 14 Pro Max –
+though the phone was far from uncomfortable to use. The curved metal
+band surrounding the device, for instance, felt cool and smooth to the
+touch.
+There are a few other design alterations. The power and volume buttons
+have been moved down a little on the edge of the device, and some
+antenna bands have been repositioned. Personally, I’d have liked to see
+Samsung move the volume button to the left-hand side of the phone to
+avoid my frequent misclicking of the power button, though this is likely
+something I’d eventually get used to. The bottom edge speaker-grille holes
+– which are next to the USB-C port, mic holes, and SIM slot – are slightly
+larger, too.
+Select elements on these phones are made from recycled materials,
+including the volume and power buttons, and the speaker grille at the very
+top of the display. In addition, the Gorilla Glass Victus 2 uses 22% recycled
+materials, and some of the phone's packaging is recycled, too. Even the
+plastic cover you'll peel off the screen when unboxing it is partially recycled.
+There’s a nice selection of colors to choose from. I handled the Cotton and
+green models for this review, with black and Lilac being the other two
+standard variants. As is nowadays the case, there are also additional colors
+– like Lime and Graphite – which are only available through Samsung.com.
+Every Galaxy S23 device is IP68-protected against a drop in water or a roll
+in dirt, so neither should bother any of them as a result.
+In short, the Galaxy S23 Plus is, on paper, one of the most durable phones
+you can buy today.
+Samsung streamlined the color options this year, keeping them the same
+across all three Galaxy S23 models. That means the Galaxy S23 Plus
+comes in Phantom Black, Cream, Lavender, and Green, the latter of which
+I received for review. I’m quite partial to the dark forest vibe, similar to the
+iPhone 11 Pro. It has a clean and sophisticated look.
+Samsung Galaxy S23 Plus: Display
+As with most other Galaxy S23 line aspects, the AMOLED display hasn't
+changed much since the S22 line.
+The Samsung Galaxy S23 Plus' 6.6-inch, 2316 x 1080-pixel screen is big,
+bright, and responsive. To preserve battery, the optional adaptive refresh
+rate tunes the screen depending on what you're doing, down to 48Hz. In
+my experience, this still allowed for phenomenally smooth scrolling, with
+motion-heavy footage in high-resolution YouTube videos appearing
+similarly silky. The phone also still supports 240Hz touch-sampling for
+speedy gaming responses.
+As with Galaxy S devices in the past, the display makes the Galaxy S23
+Plus truly stand out from its Android competition. Featuring a max rated
+brightness of 1,750 nits (up from 1,300 nits on the Galaxy S22 Plus), the
+latest Galaxy middle child’s screen knocked my socks off.
+In terms of brightness, the S23 Plus had no trouble beating back the bright
+light set up for our product photography. That's likely thanks to its 1,750nit
+peak brightness, although typically the screen will run at 1,200nits.
+The phone's adaptive brightness system also now includes more steps to
+properly adjust for your various viewing environments, and it always felt as
+though Samsung had the well-being of my eyeballs in mind during my
+testing of the S23 Plus.
+However, Samsung proved more color accurate with its Delta-E score of
+0.23 — where zero is perfect — in the Natural mode versus the iPhone 14
+Pro’s 0.25. If you opt for the default Vivid setting, you’ll enjoy some vibrant
+colors, as evidenced by the performance in the sRGB and DCI-P3 gamuts.
+At 6.6 inches, the Galaxy S23 Plus strikes a nice balance between the
+smaller Galaxy S23 (6.1 inches) and the massive Galaxy S23 Ultra (6.8
+inches). My biggest disappointment with the display, however, comes down
+to its refresh rate.
+To test a display, my favorite thing to do during a smartphone review is to
+watch my favorite scenes from Blade Runner 2049 and play Genshin
+Impact.
+For the former, the film has the typical bright neons of a dystopian
+cyberpunk future, but then it radically shifts to the harsh orange tones of an
+abandoned wasteland. The Galaxy S23 Plus handled both elements
+exceedingly well, especially in the Vivid mode. The neons stunned me, as
+did the orange and darker parts throughout the rest of the movie.
+Genhin Impact uses a supersaturated anime-style aesthetic that shines on
+the Galaxy S23 Plus. The scenery, particle effects, and character models
+all look fantastic. When combined with the phone’s best-in-class gaming
+performance, which we’ll get to in a minute, the Galaxy S23 Plus is one of
+the best places to play this game.
+Sure, it can ramp up to 120Hz for the kind of smoothness we expect from
+flagship smartphones nowadays, but it can only clock down to 48Hz. Other
+phones like the OnePlus 11 can downclock to 1Hz for added power
+efficiency. Even the Pixel 7 Pro supports a range of 10-120Hz. While the
+Galaxy S23 Plus does sport much better battery life than its predecessors, I
+think a lower range could have improved things even more.
+Samsung Galaxy S23 Plus: Performance
+The entire Galaxy S23 lineup uses the same processor, Qualcomm's
+Snapdragon 8 Gen 2 for Galaxy. That last part -- the "for Galaxy" -- is key.
+It comes from a partnership between the tech giants to optimize
+Qualcomm's latest chip for Samsung's phones.
+Effectively, it's an overclocked version of the standard Snapdragon 8 Gen 2
+processor, giving Samsung access to its max 3.36GHz processing speed.
+Not only does the entire Samsung Galaxy S23 line get the best Qualcomm
+has to offer in mobile chipsets, the phones even get their own special
+edition of that offering.
+The Samsung Galaxy S23 Plus (and all S23 devices) are running the
+Qualcomm Snapdragon 8 Gen 2 Mobile Platform for Galaxy. What this boils
+down to is a little more juice under the hood, with the CPU running at
+3.36GHz (up from 3.2GHz). That's a lot of power for a little smartphone.
+In practice, the Galaxy S23 Plus delivers on its promise of superior
+performance, comfortably outpacing – or at least matching – the best
+Android phones for speed. Whether you’re rapidly swiping across its home
+screen, multitasking with various apps or photographing using one of its
+power-hungry camera modes, the S23 Plus is near-flawlessly responsive.
+The phone – or its smaller sibling, at least – may yet earn a place on our
+list of best gaming phones, too. It loads titles quickly, doesn’t stutter during
+heavy sessions, and comfortably copes with demanding graphical settings.
+As expected, the S23 Ultra can juggle more applications and games for
+longer without noticeable slowdown or temperature increases, but it was
+still a challenge to make the S23 Plus heat up in the hand. I spent an hour
+or so with FIFA Mobile on the S23 Plus, and only noticed the growing
+warmth of the phone after around 30 mins of gameplay.
+Like its siblings, the Galaxy S23 Plus offers decent stereo sound that's
+sharp and clear, though the lack of any real bass means you'll probably
+want to plug headphones in to get the best viewing (or listening)
+experience.
+I ran a quick benchmark test using Geekbench 6, which simulates common
+tasks and workloads, on the S23 Plus to get a general idea of its
+performance. The S23 Plus' average single-core score average was 1,961,
+and its average multi-core score was 5,207, practically matching the S23
+Ultra's scores in the same test. Incredibly, Qualcomm’s Adreno 740 GPU
+outmuscles the A16 Bionic’s in both of the 3DMark Wild Life benchmarks
+we ran. 13 frames per second in Unlimited is no small difference, even
+though the Extreme Unlimited results aren’t too far off from each other.
+Apple once again asserts its dominance in the Adobe Premiere Rush test,
+where it completed the transcode 13 seconds faster than the Galaxy S23
+Plus.
+All the Galaxy S23 phones are 5G-capable, and, yes, they still include
+physical SIM slots. One thing Samsung is not currently touting is any kind
+of satellite connectivity, which, given the current competitive environment, is
+a little surprising. Apple, for instance, introduced Emergency SOS via
+Satellite with the iPhone 14 line, and Qualcomm showed at CES 2023 how
+a Snapdragon 8 Gen 2-equipped demo device could send and receive
+texts over satellite, so it’s a little disappointing to see this functionality
+absent from the S23 line.
+However, both the S23 and S23 Plus pair the Snapdragon 8 Gen 2 with the
+X70 5G modem, the same one Qualcomm told us is capable of satellite
+communications; so conceivably, Samsung and its carrier partners could
+turn on this feature later.
+In real-world use, the Galaxy S23 Plus is a powerhouse. The Snapdragon 8
+Gen 2 for Galaxy is a special overclocked version of the regular chip
+exclusive to the Galaxy S23 series (for now). It shows in all aspects,
+especially gaming. Achieving a steady 60 fps at max settings on Genshin
+Impact was no problem, and I couldn’t find any other game in my library
+that could make the S23 Plus trip.
+Make no mistake, the Galaxy S23 Plus means business and can handle
+whatever you throw at it, even the most demanding games.
+Samsung Galaxy S23 Plus: Software
+The entire Samsung Galaxy S23 line ships with Android 13 and Samsung's
+One UI 5.1 overlay. Samsung is promising four generations of OS upgrades
+and five years of security upgrades.
+Being virtually unchanged from the S22 line, the software experience on
+the S23 Plus is extremely familiar, so existing Samsung fans shouldn’t
+encounter any red flags in the user experience department.
+Though small, the upgrades remain notable. For example, the Bixby Text
+Call grabbed my attention immediately, as no other phone maker has come
+close to replicating Google’s impressive Pixel-exclusive Call Assist suite.
+Basically, this feature has Bixby, Samsung’s virtual assistant, answer phone
+calls for you with text messages. These messages will get converted into
+audio for the caller, similar to how Google’s Call Screen works. That said,
+Samsung has introduced a number of new software features including
+better Samsung Notes (there are now co-create features), co-watching in
+Google Meet, and enhanced security features. The latter adds the ability to
+set your S23 Plus in Maintenance Mode (added in One UI 5.0), so all your
+data is protected while someone works on your phone. There's also a
+refined privacy dashboard. These are all neat – if not groundbreaking –
+additions to an already solid software experience.
+There are quite a few more lesser features which you can read about in our
+One UI 5.1 feature breakdown. For my purposes, the Galaxy S23 Plus’
+software is a solid experience offering useful additions to Google’s Android
+13 base. The best part is that navigating the S23 Plus is a breeze if you’re
+used to Samsung phones already, even if you’re coming from something
+older like the Galaxy S20 Plus.
+Finally, I think you should pay attention to what Samsung does with
+updates. It currently has the best update policy in the Android world,
+besting even Google at its own game. The Korean phone maker promises
+four years of platform updates, meaning the Galaxy S23 Plus will continue
+to get the latest Android version into 2027. Samsung also promises five
+years of security patches, making the Galaxy S23 Plus more secure well
+into 2028.
+I place a huge emphasis on updates because it means that you can — at
+least from a software perspective — keep your phone longer before you
+need to replace it. Having an up-to-date and secure device is extremely
+important, so I applaud Samsung for going for the sustainability route and
+helping people save money.
+Samsung Galaxy S23 Plus: Camera
+The Galaxy S23 Plus features the same rear cameras as the Galaxy S22
+Plus, namely a 50MP main sensor with a 12MP ultrawide and 10MP
+telephoto (3x optical zoom) alongside it. The upgrade comes in the form of
+the 12MP front camera, which is a bump from last year’s 10MP.
+Thanks to the removal of the raised metal Contour Cut element around the
+camera system, all three lenses look a little larger, but this is essentially the
+same hardware setup as on the Galaxy S22 and S22 Plus. The big
+differences in image capture performance are driven, naturally, by the
+Qualcomm Snapdragon 8 Gen 2 that backs them up.
+It's a shame that the Galaxy S23 and S23 Plus didn't adopt the Galaxy S22
+Ultra's camera array, with its 108MP sensor and that amazing 100x Space
+Zoom. Still, this setup – with its upgraded image sensor and image
+processing – is nothing to sneeze at.
+Images snapped in the phone’s default “pixel-binned” mode are sufficiently
+detailed and colorful, with little quality disparity between those taken in day
+or night environments. Low-light scenarios do seem to yield a slightly
+warmer hue, but HDR is implemented to exceptional effect when things get
+properly dark.
+When it comes to everyday photos, the S23 Plus nails it in traditional
+Samsung fashion. What I mean by that is that Samsung is known for
+upping the saturation levels of its photos, giving it a pop of color many
+prefer.
+Both in regular lighting settings and in low-light environments, the S23 Plus'
+photos are vibrant and have a sharpness to them that just looks good.
+Despite the absence of the S22 (and S23) Ultra’s 100x Space Zoom
+feature on the S23 Plus, the latter’s 30x maximum digital zoom is still
+impressive. Images begin to muddy around the 10x mark, but you’ll still be
+able to capture crisp shots of objects around 50m away.
+Samsung’s iPhone-beating Portrait mode returns from the S22 Plus, too,
+while new camera features include Astrophoto, Astro Hyperlapse, Super
+HDR selfie video at 60fps and more accurate skin tone capture.
+The Plus also gets the same video capabilities as the S23 and S23 Ultra.
+You can shoot in up to 8K at 30fps, though the lack of image stabilization
+on all three phones means you’re probably better off recording in fully
+stabilized 4K at 60fps. Nonetheless, this is a highly capable handset for
+video capture.
+The S23 Plus leapfrogs its predecessor in the front-facing camera
+department, replacing the latter’s 10MP sensor with a new 12MP one.
+Sure, 12MP isn't exactly world-beating, but other phones in this price range
+– including the iPhone 14 Pro – rock similar front-facing setups. The
+front-facing camera took smooth, and sometimes too smooth, selfie photos.
+That's long been a complaint of mine about Samsung's selfie cams --
+they're far too aggressive trying to smooth out my skin and it results in an
+almost fake-looking photo.
+It's natural to have some megapixel envy when comparing the S23 Plus
+and the S23 Ultra and feel tempted to spend more money on the Ultra just
+for its camera setup, but having used both phones, I can say that while the
+Ultra's camera is impressive, the Plus is no slouch, and I'd wager most
+people will be just as happy with it.
+Samsung Galaxy S23 Plus: Battery Life
+One of the reasons you buy a bigger phone is for the bigger battery. The
+Galaxy S23 Plus has a 4,700mAh battery, which is 200mAh larger than the
+one in the Galaxy S22 Plus and 800mAh larger than the battery in the
+standard Galaxy S23. The Galaxy S23 Ultra, on the other hand, boasts a
+whopping 5,000mAh battery.
+The Galaxy S23 Plus comes equipped with a 4,700 mAh battery, up from
+4,500 mAh in the Galaxy S22 Plus. Coupled with the more efficient
+Snapdragon 8 Gen 2 silicon and the S23 Plus nets an excellent battery life
+result in our testing.
+That beats both the iPhone 14 Pro and Pixel 7 Pro, the Galaxy S23 Plus’
+biggest competitors — almost three and a half hours in the latter’s case.
+That’s an excellent change of pace for Samsung, since the Galaxy S22
+Plus went for a much lower 9 hours and 27 minutes in the same test.
+During testing, I was able to comfortably use the Galaxy S23 Plus for
+almost two days in a general day-to-day capacity before needing to juice it
+back up again, which is around half a day longer than the standard S23
+offers. My device dropped to 60% at midnight after the first day of normal
+use, before dropping to 1% at around 7pm the following day.
+The S23 Plus’ Snapdragon 8 Gen 2 chipset also means that heavy gaming
+or streaming sessions don’t drain its battery as much as equivalent
+sessions do on the S22 Plus. An hour of 1080p YouTube streaming on full
+brightness, for instance, only ate up around 5% charge, while a similarly
+long FIFA Mobile gaming session only knocked around 10% off the phone’s
+battery life.
+The S23 Plus supports 45W wired fast charging – the same as the S22
+Plus – where its smaller sibling only supports 25W. In practice, though, the
+difference between the two charging speeds is pretty inconsequential. The
+latter charged to 55% in 30 minutes during testing, while the S23 Plus
+managed a slightly better 62% (though I used a non-Samsung 45W
+charger for the Plus test). There's also wireless and reverse wireless
+charging on the S23 Plus, too. And with 45W charging (charger not
+included), the Galaxy S23 Plus can regain about 70% of its battery in 30
+minutes. That bests both the iPhone 14 Pro (20W) and Pixel 7 Pro, though
+we only had a 20W charger at hand for the latter. (The Pixel 7 Pro supports
+up to 23W charging.)
+Oh, and it’s worth noting that – as with the standard S23 and S23 Ultra –
+you won’t get a charger included in the box with the S23 Plus.
+Samsung Galaxy S23 Plus: Verdict
+The Samsung Galaxy S23+ is in sort of a weird spot. It's a large,
+high-quality, thousand-dollar flagship, but it's not Samsung's flagship
+flagship. If the Samsung Galaxy S23 Ultra is a phone for enthusiasts,
+though, the Galaxy S23+ is for slightly more casual smartphone users who
+still want a big, premium device, but don't necessarily need every single
+feature they can stuff in their pocket. For those buyers, the S23+ is almost
+ideal.
+The Samsung Galaxy S23+ is in sort of a weird spot. It's a large,
+high-quality, thousand-dollar flagship, but it's not Samsung's flagship
+flagship. If the Samsung Galaxy S23 Ultra is a phone for enthusiasts,
+though, the Galaxy S23+ is for slightly more casual smartphone users who
+still want a big, premium device, but don't necessarily need every single
+feature they can stuff in their pocket. For those buyers, the S23+ is almost
+ideal.
+Samsung S23 Ultra
+The Galaxy S23 Ultra offers up a familiar face that, at a glance, looks
+identical to its predecessor. The changes are there though, they're just not
+as big as those you'll find on the Galaxy S23 and S23 Plus. (You can read
+our Complete Samsung Galaxy S23 review and our thorough Samsung
+S23 Plus review for more on those two phones).
+A familiar squared design plays host to a tweaked display that offers a
+greater flat surface area, giving the S Pen stylus more room to work with.
+The front and back now sport the latest and most resilient Gorilla Glass
+Victus 2, and all the mod-cons from its predecessor – including IP68 dust
+and water resistance, and 45W wired charging – remain.
+Samsung has also worked to integrate more recycled materials into the
+phone's design, with the likes of recycled fishing nets going into the
+construction of the S Pen's inner cover and the speaker module, for
+example.
+Some elements – like the 6.8-inch 1Hz to 120Hz adaptive Dynamic
+AMOLED 2X display and the 5,000mAh battery – have received seemingly
+minor tweaks (greater color accuracy and 20% improved efficiency, in the
+case of the above examples, respectively).
+On the inside, however, there are some bigger changes, like the new
+'Snapdragon 8 Gen 2 Mobile Platform for Galaxy' that Samsung and
+Qualcomm have collaborated on; purpose-built to offer rival-beating
+performance (51% better NPU performance, 41% better GPU performance
+and 33% greater CPU performance than previously, according to
+Samsung). The Ultra – along with the Galaxy S23 and Galaxy S23 Plus – is
+also one of the first phones out there to boast faster and more efficient
+LPDDR5X RAM and UFS 4.0 storage.
+A familiar-looking rear four-camera rear array hides a new 200MP lead
+sensor that offers 16-to-1 pixel-binning, with the aim of advancing the S23
+Ultra's 'Nightography' abilities for everything from general snaps, to portrait
+photography, to videos of the night sky using the new Astro Hyperlapse
+mode and in practice, although imperfect, you'll be hard-pressed to find an
+alternative phone with the same level of consistency, quality and
+confidence across its various sensors.
+Those who want to shoot with greater control now also benefit from
+enhanced editing control too, with the ability to work with shots at up to
+50MP captured in Expert RAW mode.
+You still get a 12MP ultrawide and dual telephoto lenses at 3x and 10x
+(periscopic) zoom, respectively, granting the S23 Ultra the same degree of
+class-leading camera versatility offered up by the last couple of generations
+of Ultra.
+Samsung has also renewed its commitment to offering up to four years of
+OS updates and five years of security updates, across the Galaxy S23
+series. All three arrive with One UI 5.1 atop Android 13, which folds in
+better collaborative working in Samsung Notes and an enhanced Privacy
+Dashboard, among other things.
+While the starting price (in the US, at least) remains consistent with the
+Galaxy S22 Ultra's base price, Samsung has doubled the entry-level
+storage to 256GB, while the top-tier model can be had with 12GB of RAM
+(up from 8GB on the base version) and a whopping 1TB of storage.
+For a deeper dive, head on to the full in-depth review below, but know that,
+provided you're comfortable with the Ultra's high asking price, there's little
+to be disappointed by here.
+Samsung Galaxy S23 Ultra: Design
+The promotional images had me convinced that the S23 Ultra is physically
+unchanged from last year's Galaxy S22 Ultra, but holding the phone in my
+hand for the first time surprised me. The S23 Ultra, while featuring identical
+physical dimensions to its predecessor, now has slightly flattened side rails
+compared to last year. This seemingly small change makes the phone feel
+more comfortable to hold and allows for a more secure grip.
+I use the word "comfortable" only in a relative term, as this is still a chunky
+boi that might feel too unwieldy for you, especially if you haven't handled an
+Ultra flagship in the last 2-3 years. I would have liked it if it was slightly
+narrower, but at least Samsung did a good job balancing its 234 grams of
+weight.
+The S22 Ultra was the first of Samsung's phones to truly fuse Galaxy S and
+Galaxy Note sensibilities together, and in doing so it shrugged off the
+contour-cut camera-led aesthetics of its predecessor and its launch
+siblings. Instead, it favored a cleaner and more squared form; partly as a
+means of further differentiating itself from the standard S22 and S22 Plus,
+but also in order to physically accommodate an integrated S Pen stylus.
+For the S23 series, the standard and Plus models have played catch-up in
+the design department, while the S23 Ultra offers only subtle refinements
+that, to the eye, will be almost impossible to spot for those familiar with the
+S22 Ultra.
+There's a similar pill-shaped top-down profile, with curved front and back
+glass feeding into a metal frame, although one change S22 Ultra users
+might notice when they pick up the S23 Ultra, is the reduced the radius of
+the curved edges of the display, giving you a greater flat surface area on
+which to use the integrated S Pen; a subtle but welcome tweak, functionally
+speaking.
+I'd argue this small change makes the phone harder to pick up off a flat
+surface but the difference is negligible. Its squared silhouette will be more
+divisive, however, making it trickier to pocket than the Galaxy S21 Ultra –
+with its rounded corners. It remains an undeniably good looking device
+that's becoming of its premium standing and promised power, though.
+With launch S23 colors consistent across the whole range this year, you
+can pick the Ultra up in one of four finishes – Phantom Black, cream, green
+and lavender – in most places. As in previous years though, there are also
+a handful of colors exclusive to Samsung.com, including Sky Blue,
+Graphite, Lime and red (my personal favorite, offset against a black frame).
+While the cap of the S Pen matches the body color of your choosing, the
+rest of the stylus is black, regardless of your preferred finish.
+In a not dissimilar fashion to the recent Hazel Google Pixel 7 Pro or the
+brand-new Eternal Green OnePlus 11, the green finish of the S23 Ultra
+review sample I've been testing is distinctly muted, particularly when
+viewed in artificial light. To some, this will come across as subtle and
+tasteful, to others it'll just look bland; so if you get the chance, try and get
+hands-on with your chosen finish before laying down any cash (assuming
+you don't plan on sticking it in one of the best Samsung Galaxy S23 Ultra
+cases from the get-go).
+The company's excellent efforts in durability persist too, with IP68-certified
+dust and water ingress protection, a resilient Armor Aluminum alloy frame
+and – for the first time on any phone, the latest Gorilla Glass Victus 2 –
+from Corning. It's a good thing too, as the rounded edges (even if they are
+slightly less rounded this year), paired with that smooth front and back, and
+the sheer size of the phone make it tricky to wield one-handed, especially
+when compared to its smaller, flat-fronted S23 siblings.
+For all the advanced technology that Samsung has managed to pack into
+the S23 series, it's also tried to up the ante in terms of
+environmentally-friendly materials, with the Ultra being the real champion of
+this initiative. 80% of the deco film used in the construction of the phone's
+back is recycled, as is 22% of the glass used across its body, along with
+20% of the S Pen's inner cover – reportedly hewn, in part, from
+ocean-bound polyamide.
+Samsung claims that other recycled materials that have been hammered
+into the shape of the S23 Ultra include discarded fishing nets, water
+barrels, PET bottles and pre-consumer recycled aluminum, which have
+contributed to the construction of components (12 in all – double that of the
+S22 Ultra) like the volume keys and SIM tray, speaker arrangement, 5G
+antenna arrangement and more.
+While Samsung isn't alone in working to improve the the green credentials
+of its phones (the iPhone comes to mind), this is certainly the most vocal
+we've seen the company about a particular handset in this regards and it
+represents a push that will hopefully catch on with rival phone makers
+going forward.
+Samsung S23 Ultra: Display
+Aside from that reduced curvature along its edges and greater protection
+thanks to that new Gorilla Glass Victus 2, the S23 Ultra's display offers a
+familiar viewing experience to its predecessor.
+As on last year's Ultra, you get a 6.8-inch Dynamic AMOLED 2X panel, with
+a resolution of 1440 x 3088 and a dynamic refresh rate that can scale
+between 1Hz and 120Hz, automatically shifting to prioritize power efficiency
+or visual fluidity as needed. By having the display rate displayed on-screen
+using developer options, I was able to see the screen switch between
+24Hz, 48Hz, 60Hz and 120Hz, which is a wider array of frequencies than
+I've seen from any other Android phone boasting a dynamic refresh rate,
+supporting Samsung's claims of greater power efficiency this generation.
+It is well-known that Samsung's flagships have some of the best displays in
+the smartphone market. The Galaxy S23 Ultra features a display that's
+basically unchanged from last year, but it can still claim to be the best. It's
+super bright, with 1200 nits of brightness in regular scenarios and up to
+1750 nits of peak brightness in HDR content. I took the phone out during
+bright sunny California outings, and the screen was perfectly legible even in
+direct sunlight.
+While it supports a native resolution of 1440p, you can dial down the
+screen resolution to 1080p, which is how I used the phone mostly. Even at
+1080p, the screen looks fantastic, with punchy colors and deep blacks. You
+get support for HDR across streaming apps, and consuming multimedia on
+this display is a treat. The tiny punch-hole camera cutout at the top doesn't
+get in the way a lot, and the tall 19.5:9 aspect ratio is perfect for almost
+everything from watching wide format videos on YouTube to scrolling
+through vertical social media feeds.
+The screen also features an adaptive refresh rate of up to 120Hz, giving
+you a silky-smooth scrolling experience across apps while also dialing it
+down to 24Hz to save battery when you're not touching the screen. One big
+letdown with the display, though, is that Samsung has opted for a low PWM
+flicker rate for its premium flagships, and this is no exception with the S23
+Ultra. While this may not be a concern for most users, if you are particularly
+sensitive to screen flicker or frequently use your phone in low-light
+environments, this may pose a challenge.
+Max brightness still doesn't compare to the iPhone 14 Pro's impressive
+2,000 nit peak (the S23 range all tops out at 1,750 nits), but in real-world
+viewing, movies, games and other visuals look exceptional. Meanwhile,
+Samsung isn't making any new claims of further-reduced S Pen latency or
+additional Air Gesture functionality this time around, but it's already
+impressively responsive (Wacom-supported tech that allows for 2.8ms
+latency) and the user experience has been augmented in other ways that
+appeal to productivity.
+It's worth mentioning that even the latest iPhones share this characteristic.
+In contrast, some recent Android phones from brands like Realme and
+Motorola have transitioned to higher PWM displays, addressing this
+concern.
+The high-quality vibration motor under the display adds haptic feedback to
+your screen interactions. However, it's worth noting that iPhones and even
+some of the latest Xiaomi flagships offer haptics that feel even more refined
+and premium. The ultrasonic fingerprint scanner works reliably well to
+provide secure biometric unlocking.
+Finally, the speaker setup here is better than ever, with the top earpiece
+working in tandem with the speaker at the bottom to provide clear, rich
+audio with even hints of some actual bass. Top quality stuff!
+Samsung Galaxy S23 Plus: Performance
+Unlike previous years, the entire S23 series is powered by the same chip
+globally, namely the Snapdragon 8 Gen 2 for Galaxy. Here's what the "for
+Galaxy" part means, but what you need to know is that this is undoubtedly
+the slickest, most responsive Samsung phone to date. Helped by the fact
+that the Galaxy S23 Ultra packs in the latest UFS 4.0 storage, this phone
+flies through daily tasks. Whether launching heavy apps, switching between
+apps for multi-tasking, or just keeping your apps suspended in memory, the
+S23 Ultra can do it all without breaking a sweat.
+It's not really a secret that Samsung has connections in high places,
+building Wear OS 3 with Google and having co-developed the last few
+generations of its own flagship chips in conjunction with Qualcomm, but
+that partnership has matured into something exceptional for 2023.
+Whereas previously, users in different markets could expect Galaxy S
+devices powered by either Samsung Exynos or Qualcomm Snapdragon
+silicon, the Galaxy S23 series gains Qualcomm's latest and greatest
+Snapdragon 8 Gen 2 chip worldwide.
+This eliminates performance discrepancies that previously left users of
+Exynos-powered Galaxy S phones feeling behind the curve and also helps
+with aspects like camera processing (thanks to the use of the same ISP
+across regions) and battery life consistency.
+Not only has the 8 Gen 2 already shown its capabilities (our OnePlus 11
+review already offers first-hand insight into how the chip performs) but
+Samsung has managed to gain access to an exclusive tuned variant of the
+SoC, dubbed the 'Snapdragon 8 Gen 2 Mobile Platform for Galaxy'. In a
+nutshell, the prime Cortex-X3 core inside the chipset has been overclocked
+to 3.36GHz (rather than 3.2GHz, as is standard); without compromising
+efficiency or battery longevity.
+Talking about gaming, the Galaxy S23 Ultra can run all of the heaviest
+games available on the Android ecosystem at their highest settings,
+although it's missing the option to run games like PUBG and Call of Duty
+Mobile at 120fps. Despite not being a gaming-centric smartphone, it can
+hold its own during long gaming sessions, not showing any significant
+thermal throttling or frame-drop issues.
+As Samsung's Nick Porter pointed out during a one-on-one interview with
+TechRadar ahead of the phone's launch, the vapor chamber is "2.7x bigger
+on average across the whole S23 series" this year, helping with thermal
+efficiency, while the use of faster and more efficient LPDDR5X memory and
+UFS 4.0 storage, lend themselves to greater performance and quality of life
+too.
+In testing, artificial benchmarks reveal what I suspected ahead of time: the
+S23 Ultra gains a slight edge over the OnePlus 11 – with its
+similar-but-technically-lesser chip – based on the numbers, but the Ultra's
+lead is so slight that you're unlikely to feel any real-world benefit. As such,
+that higher prime-core clock speed is far more beneficial for Samsung
+Galaxy S23 series marketing campaign than it is the end user, but
+regardless you're getting one of the most powerful, if not the most powerful
+phone on the market.
+In real-world use, the pairing of the new chipset, RAM and storage
+collectively deliver performance that – as you'd hope for a device with the
+S23 Ultra's standing and price tag – feels rock-solid. The most demanding
+task the Ultra faced during review was running the graphically demanding
+game Genshin Impact, with settings intentionally set to their upmost limits.
+Everything ran smoothly for the 20 minutes of play time, but the phone did
+get noticeably hot, to the point where I'd suggest sticking with the title's
+default settings (at which it still looks and runs fantastically).
+Samsung Galaxy S23 Ultra: Software
+Samsung is class-leading, when it comes to making the best Android
+phones for update support, promising four years of OS updates and five
+years of security updates across the Galaxy S23 series; with all three
+devices running on the latest Android 13 – dressed in the company's own
+One UI 5.1 – out of the box.
+It should feel like a familiar experience for existing Samsung Galaxy
+owners, with squircle icons and a generally flat graphical style as standard,
+dressed with a few new additions that appear to focus on collaboration,
+convenience and security.
+The software suite is packed with useful functionalities, such as the Secure
+Folder for protecting sensitive files, the Game Launcher for an enhanced
+gaming experience, and the Bixby virtual assistant for voice-activated
+convenience. From the Edge Panel, which provides quick access to your
+favorite apps and tools, to Samsung Dex, which can project a Windows
+PC-like interface to an external display via USB or even wirelessly, the
+Galaxy S23 Ultra packs in more features than you'll ever need.
+With so many features crammed in, it's no wonder that right out of the box,
+the phone comes with ~50GB of its onboard storage already utilized.
+Samsung's insistence on bundling in duplicate apps for every default
+Google app (Calendar, Mail, Messages, Internet browser, etc.) also adds to
+the pre-installed bloat, along with a plethora of other Samsung apps. While
+disabling or hiding these apps is possible, it would be more convenient if
+Samsung streamlined its software experience by eliminating the need for
+duplicate apps.
+Samsung Notes now allows for simultaneous creators to work within a
+single document collaboratively, routines and modes can be set to suit
+different scenarios – adjusting settings accordingly and an upgraded
+privacy dashboard should dispel ambiguity around how secure your device
+is.
+Air Command and Air Gestures remain in place as part of the S Pen
+experience, offering the ability to control the camera, translate text and cut
+and paste on-screen content instantly, with simple stylus-driven actions,
+although camera controls in particular take a little getting used to.
+My only gripe with Samsung software in the past has been the
+sluggishness that One UI operates with, but as I mentioned above, this
+phone flies. But that's not all---Samsung has also made significant strides
+in its software support. With the S23 Ultra, you can rest easy knowing that
+you'll be treated to a guaranteed four years of OS updates and even longer
+support for security updates.
+Of course, the long-term performance of Samsung phones has been a
+topic of debate, and only time will tell how the Galaxy S23 Ultra fares. But
+with the leaps and bounds made in software optimization and support, it's
+clear that Samsung is determined to change the narrative.
+While One UI won't be to everyone's tastes, it's unique, fairly customizable
+and displays a level of polish that's evident from initial setup to everyday
+use, and which you'll be hard-pressed to find elsewhere. Want to scan a
+QR code to connect to Wi-Fi during setup, instead of having to type out
+your password? Done. Want your device to auto-restart when it senses
+performance degradation? There's a toggle for that. Want to run two
+instances of the same messaging app logged into different accounts
+simultaneously? There's an option for that too.
+Samsung Galaxy S23 Ultra: Camera
+This year's major marketing push for the Galaxy S23 Ultra has been the
+brand-new 200MP sensor for its primary rear camera. The other three rear
+cameras remain unchanged, while the selfie camera gets a downgraded
+12MP resolution but an upgraded sensor that also supports autofocus.
+Let's break down the real-life camera performance one by one.
+Cameras are one area where the Ultra has always stood out when looking
+at the best Samsung phones available and the multi-sensor setup that the
+company's been using for the last few generations has consistently
+ensured that these devices find a place up at or near the top of our best
+camera phones roundup year after year.
+While the 12MP ultrawide and dual 3x and 10x 10MP telephoto sensors on
+the back of the S23 Ultra feel decidedly familiar, the phone shrugs off the
+primary 108MP resolution sensor seen on previous entries in the series
+and replaces it – for the first time on a Samsung phone – with a whopping
+200MP primary camera; thought to be the ISOCELL HP2 that TechRadar's
+cameras editor, Tim Coleman, dived into a few days prior to the S23 series'
+launch.
+Such a change in hardware can sometimes result in a drop in quality for
+some manufacturers; with their camera teams needing time to retune their
+algorithms and color science to get the best from the new components
+(something that's happened with the likes of OnePlus in the past). But
+much as with Google's move to a new 50MP primary sensor on its Pixel 6
+series and Apple's shift from a 12MP to a 48MP primary sensor the year
+after, with the iPhone 14 Pro line, it's clear that Samsung's camera team
+has ensured that the output from the S23 Ultra's new 200MP Adaptive Pixel
+Sensor offers just as consistent and impressive an experience as its
+predecessor, right out of the gate.
+By default, the S23 Ultra's main camera pixel bins images by 16 to 1, down
+to 12.5MP (output as 12MP stills) that use all that additional pixel data to
+iron out image shake, while also taking in more light and retaining more
+color information. Speaking of which, low light photography is a big area of
+focus for the camera experience on this Ultra; with the promise of
+enhanced night shots across the board – including portraits – as well as a
+new astrophotography hyperlapse video mode.
+Stabilization across stills and video has been improved too, with double the
+angle of movement now possible in the OIS (optical image stabilization)
+system, compared to last year's S22 Ultra (3-degrees on the S23 Ultra),
+along with improved VDIS (video digital image stabilization) and faster
+autofocus from the 'Super Quad Pixel' sensor, as Samsung has branded it.
+For users who want to get more granular with the Ultra's photography
+experience, the Expert RAW mode – integrated into the camera UI – now
+supports an output of up to 50MP, rather than 12MP previously. The Ultra
+also lets you snap 200MP stills (as jpegs), if you want to play with the full
+sensor's available detail.
+In practice, while shooting in raw allows for greater fidelity and significantly
+more robust editing – letting you pull more data out of the darkest or
+lightest parts of an image – the S23 Ultra seems to consistently under
+expose in Expert RAW and results all come with a graded profile as
+standard, rather than a neutral image.
+In the pursuit of switching up sensors, all three of the S23 series also gain
+a new 12MP front-facing snapper this generation, set into the display
+(Samsung hasn't yet been bold enough to import the Z Fold series' under
+display camera), which holds promise and brings more consistency to the
+experience of owning an S23, regardless of model.
+Anecdotally, the 12MP front-facer feels like a faster sensor than the one
+found on its predecessor, offering up a nice overall image with impressive
+dynamic range, as selfie snappers go.
+In side-by side selfie tests with the Google Pixel 7 Pro and the iPhone 14
+Pro Max, the S23 Ultra most closely matches Apple's flagship and offers a
+surprisingly (for Samsung) natural-looking final image, with impressive
+detail and what often came across as pleasing, more natural skin tones
+than the Pixel, which was uncharacteristically out of step against both
+Samsung's and Apple's phones in testing.
+Samsung also continues to work closely with big social brands like Snap,
+TikTok and Instagram to ensure phones like the S23 Ultra benefit from
+higher fidelity image and video quality, as well as tighter integration with
+creative features within each social app, something rival Android phone
+makers miss out on.
+Samsung Galaxy S23 Ultra: Battery Life
+The battery specs read the same as the S22 Ultra, with a 5,000mAh cell
+inside the S23 Ultra supporting 45W wired charging (along with wireless
+and reverse wireless charging), however, Samsung claims that the
+collective effect of the new hardware efficiencies and tighter integration
+between hardware and software result in a 20% improvement that Porter
+claims delivers "the longest ever battery life on a Galaxy S smartphone;"
+and I'd be inclined to agree.
+While the 100W charging speeds of OnePlus 11 and 125W speeds of the
+Motorola Edge 30 Ultra both leave the S23 Ultra in the dust, actual
+longevity on Samsung's new uber-flagship is greatly improved, despite the
+phone having the same-capacity battery as its predecessor.
+What was a one-day phone at best now lasts a day and a half, in normal
+usage and will still see you through a full day, even if you plan on streaming
+Disney Plus with brightness pushed up or want to dive into an hour of CoD:
+Mobile or Wreckfest.
+While the battery life is better than ever, Samsung's charging speeds still
+leave much to be desired. The Galaxy S23 Ultra supports 45W of wired
+charging, which, unfortunately, takes over an hour to charge the phone
+from 0 to 100% entirely. It's worth noting that achieving this charging speed
+requires the use of select PPS chargers, as most other USB PD chargers,
+including the 65W charger I utilize, can only charge the S23 Ultra at 25
+Watts, extending the charging time to around 75-80 minutes for a full
+charge.
+On a brighter note, wireless charging speeds are decently fast at 15 Watts,
+and the S23 Ultra even enables you to wirelessly charge other devices or
+TWS earbuds at up to 4.5 Watts.
+In testing, the S23 also delivered some of the longest screen-on time per
+charge of any phone we've tested recently, at approximately eight hours;
+surpassing rival devices with similarly-capacious batteries by at least half
+an hour.
+Samsung Galaxy S23 Ultra: Verdict
+The Samsung Galaxy S23 Ultra provides unmatched reliability in terms of
+performance and battery life, arguably the most versatile set of cameras on
+a phone, and productivity features that no other phone currently offers.
+However, it is evident that Samsung has taken the iterative route here, not
+really trying to up the ante in any field.
+I can think of plenty of features other Android flagships have that the S23
+Ultra doesn't have: faux leather back panels, higher PWM displays, faster
+charging, 1-inch camera sensors, microscope lenses, and so on. Yet the
+truth is that the S23 Ultra will still win in every comparison with those
+phones because of its overall consistent goodness across the board.
+Granted, these phones are often limited to select markets, leaving
+Samsung as the go-to global option, allowing them to take a more relaxed
+approach to innovation. We witness a similar pattern with foldable, where
+Huawei, Xiaomi, and OPPO have released devices that seemingly address
+all the "problems" that Samsung's foldable continues to grapple with.
+With the Galaxy S23 Ultra, there's nothing inherently wrong, which
+paradoxically diminishes the sense of uniqueness in its positive aspects. It
+reminds me of a quote: "You are never dedicated to something you have
+complete confidence in. No one is fanatically shouting that the sun is going
+to rise tomorrow." Come to think of it, there's only one other phone that can
+claim to be consistently good to the point of becoming mundane, and that's
+the iPhone. And we all know how that's going.
+If you are someone who actually needs the gazillion practical benefits the
+Galaxy S23 Ultra provides, there is no other phone like it. If you won't use
+the S Pen or the ridiculous zooming capabilities, you could be happy with a
+Galaxy S23+ or a Pixel. And if you crave a more adventurous and
+cutting-edge experience, perhaps one of the foldable options should be on
+your radar. The S23 Ultra may not sport the flashiest gimmicks or push the
+boundaries of design, but it delivers where it truly matters---reliability and
+an exceptional user experience.
